@@ -232,4 +232,3 @@ Created with ❤️ for professional QR code scanning needs.
 - [ ] Advanced filtering and search
 - [ ] Batch export to multiple formats
 - [ ] QR code validation and verification
-
